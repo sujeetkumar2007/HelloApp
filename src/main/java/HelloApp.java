@@ -6,8 +6,9 @@
  * "Hello World" to the console when executed.
  * UC 2: Display User Name - The application should accept a user's name as
  * a command-line argument and display a personalized greeting.
- * * @author Sujeet Kumar T S
- * @version 1.0
+ * 
+ * @author Sujeet Kumar T S
+ * @version 2.0
  * @since UC1
  */
 
