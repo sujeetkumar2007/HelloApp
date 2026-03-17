@@ -1,0 +1,39 @@
+# .gitignore
+
+
+### VS Code ###
+
+.vscode/
+
+
+# Compiled class file
+
+*.class
+
+*.jar
+
+*.log
+
+
+# Other File Exclusions
+
+.DS_Store
+
+*.iml
+
+
+# Build Folders Exclusion
+
+.idea/
+
+target/
+
+bin/
+
+doc/
+
+out/
+
+build/
+
+dist/
