@@ -13,7 +13,7 @@
  * @version 5.0
  * @since UC1
  */
-
+//Key Concepts for HelloApp UC5:
 // 1. Command-line Arguments: Accessing multiple user inputs via args[] parameter
 // 2. Array Iteration: Using enhanced for loop to traverse all arguments
 // 3. Enhanced For Loop: Simplifies iteration over arrays without manual index management
