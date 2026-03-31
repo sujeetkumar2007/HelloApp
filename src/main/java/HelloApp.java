@@ -15,16 +15,6 @@
  * @version 6.0
  * @since UC1
  */
-<<<<<<< HEAD
-//Key Concepts for HelloApp UC5:
-// 1. Command-line Arguments: Accessing multiple user inputs via args[] parameter
-// 2. Array Iteration: Using enhanced for loop to traverse all arguments
-// 3. Enhanced For Loop: Simplifies iteration over arrays without manual index management
-// 4. StringBuilder: Efficiently building a string in a loop without creating multiple 
-//    immutable string objects
-// 5. Default Values: Providing a fallback when no arguments are provided
-// 6. String Concatenation: Building the final greeting message
-=======
 
 // Key Concepts for HelloApp UC6:
 // 1. Enhanced For Loop: A simplified syntax for iterating over arrays or collections
@@ -37,7 +27,6 @@
 //    comma and space) from the end of a string after building it.
 // 5. String Length: Understanding how to use the 'length()' method to determine 
 //    the size of a string and manipulate it accordingly.
->>>>>>> feature/UC6-substring-method
 
 // Sample Code for HelloApp UC6:
 // StringBuilder nameBuilder = new StringBuilder();
